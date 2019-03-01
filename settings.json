@@ -55,9 +55,9 @@
 		}
 	],
 	"connection": {
-		"tenancyName": "Default",           
-		"usernameOrEmailAddress": "api",
-		"password": "*******",               
+		"tenancyName": "juanfeli",           
+		"usernameOrEmailAddress": "admin",
+		"password": "prueba123",               
 		"hostname": "platform.uipath.com", 
 		"isSecure": true,                
 		"port": 443, 
@@ -65,5 +65,5 @@
 		"connectionPool": 5 
 	},
 	"refreshInterval": 3600,
-	"secretKey": "YOUR_ORCHESTRATOR_WEBHOOKS_SECRET_KEY_HERE"
+	"secretKey": "secretkey"
 }
